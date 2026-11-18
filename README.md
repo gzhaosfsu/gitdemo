@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Employee Management System
 
 Developed by TechNova Solutions.
@@ -9,4 +10,4 @@ Modules:
 
 Technology: Java
 Version Control: Git and GitHub
-Project Status: Testing In Progress
+Project Status: Testing In Progress - Development Completed
