@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Employee Management System
 
 Developed by TechNova Solutions.
